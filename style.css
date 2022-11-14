@@ -1,0 +1,18 @@
+#ul {
+    color: aqua;
+    font-size: 16px;
+}
+
+.ol {
+    color: plum;
+    font-size: 16px;
+}
+
+#li {
+    font-size: 20px;
+    color: black;
+}
+
+.p {
+    color: gray;
+}
